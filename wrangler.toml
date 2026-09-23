@@ -1,0 +1,11 @@
+name = "spinogambinoapp-com-gr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinogambinoapp.com.gr"
+HMAC_KEY = "e289ee68fc9fe53b552b8213e8b278fec98c3d163bd6d81240adad4eeae77586"
+COOKIE_NAME = "fc6"
+PLAY_PATH = "play"
+BUTTON_ID = "p578a1feaa5717689f4efd7834f52243f"
+GATE_SALT = "b693882f082900f6"
